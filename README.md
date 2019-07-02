@@ -7,7 +7,8 @@ It is an open source JavaScript library(and not a framework) for building user i
 3-> Routing
 4-> Redux
 5-> Utilities
-
+------------
+React events are named camelCase  ///////////////
 
 
 Type of Components --> (1) Functional Component
