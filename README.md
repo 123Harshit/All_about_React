@@ -17,3 +17,4 @@ Components describe a part of user interface.
 They are re-usable and can be nested inside other components.
   / / / / /
   
+//Refs cannot be attached to functional component
